@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  font-weight: 1000;
+  font-size: 35pt;
+}
+.text-body{
+  font-size: 12pt;
+}
+.projects-container{
+  display: flex;
+  margin: 50px;
+  padding: 50px;
+}
+#project-col{
+  padding-left: 15px;
+}
