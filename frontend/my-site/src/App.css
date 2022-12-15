@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.app-banner{
+  display: table-cell;
+  background-color: rgb(235, 142, 221);
+  height: 45px;
+  font-family: Silom, sans-seriff;
+  font-weight: 10;
+  vertical-align: middle;
+}
