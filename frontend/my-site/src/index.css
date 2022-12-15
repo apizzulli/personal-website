@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: 'Avenir';
+  src: local('Avenir'), url(./fonts/Avenir.ttc), format('truetype');
+}
+@font-face {
+  font-family: 'SukhumvitSet';
+  src: local('SukhumvitSet'), url(./fonts/SukhumvitSet.ttc);
+}
+@font-face {
+  font-family: 'Silom';
+  src: local('Silom'), url(./fonts/Silom.ttf);
+}

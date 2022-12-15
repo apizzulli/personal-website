@@ -5,6 +5,7 @@ import Body from './Body.js'
 function App() {
   return (
     <div className="App">
+      <div class="app-banner">Anthony J Pizzulli</div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

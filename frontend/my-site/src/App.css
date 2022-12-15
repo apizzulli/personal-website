@@ -36,6 +36,7 @@
     transform: rotate(360deg);
   }
 }
+<<<<<<< HEAD
 
 .header{
   font-weight: 1000;
@@ -51,4 +52,13 @@
 }
 #project-col{
   padding-left: 15px;
+=======
+.app-banner{
+  display: table-cell;
+  background-color: rgb(235, 142, 221);
+  height: 45px;
+  font-family: Silom, sans-seriff;
+  font-weight: 10;
+  vertical-align: middle;
+>>>>>>> d4586151e3521ae685b26ffb62757d86b2f27d75
 }
